@@ -2,7 +2,7 @@
 This is based on my code for the course PLP of CentraleSupélec
 
 # Task
-Create a Spark Streaming app that 
+Create a Spark Streaming app that  
 Q1. reads Velib data from velib.behmo.com (port 9999)  
 Q2. Every 5s: print the empty Velib stations  
 Q3. Every 5s: print the Velib stations that have become empty  
