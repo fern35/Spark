@@ -1,4 +1,4 @@
-#ZHANG Yuan 6/janvier/2018
+
 import json
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
